@@ -12,7 +12,8 @@ Built entirely using **C#** and targeting the cutting-edge **.NET 10.0 runtime**
 
 ### 🕹️ Central Game Arena
 The main game grid features a clean HUD system displaying live game telemetry, score tracking, and persistent high scores.
-![RetroSnake Game Arena](media/fig_arena.png)
+![RetroSnake Game Arena](obj/fig_arena.png) (obj/fig_arena2.png)
+
 
 ### 🟩 Component 1: Flicker-Free Dual-Buffer Renderer
 An optimized memory grid engine that maintains a copy of the previous terminal frame. Instead of wiping the screen using `Console.Clear()`, it calculates differential offsets and selectively rewrites *only the individual characters that changed*, eliminating all high-frequency monitor flashing.
