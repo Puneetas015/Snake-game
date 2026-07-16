@@ -1,0 +1,15 @@
+C:\Users\Punit Tiwari\Downloads\snake game\bin\Debug\net10.0\SnakeGame.exe
+C:\Users\Punit Tiwari\Downloads\snake game\bin\Debug\net10.0\SnakeGame.deps.json
+C:\Users\Punit Tiwari\Downloads\snake game\bin\Debug\net10.0\SnakeGame.runtimeconfig.json
+C:\Users\Punit Tiwari\Downloads\snake game\bin\Debug\net10.0\SnakeGame.dll
+C:\Users\Punit Tiwari\Downloads\snake game\bin\Debug\net10.0\SnakeGame.pdb
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.AssemblyInfo.cs
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.sourcelink.json
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.dll
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\refint\SnakeGame.dll
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.pdb
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\SnakeGame.genruntimeconfig.cache
+C:\Users\Punit Tiwari\Downloads\snake game\obj\Debug\net10.0\ref\SnakeGame.dll
